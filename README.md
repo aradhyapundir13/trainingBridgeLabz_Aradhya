@@ -1,1 +1,1 @@
-# trainingBridgeLabz_Aradhya
+# Day1&2Progs
